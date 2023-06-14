@@ -1,0 +1,123 @@
+.first_image {
+    width: 100%;
+    height: 100vh;
+}
+
+.registration_part .css-mhc70k-MuiGrid-root>.MuiGrid-item {
+    padding: 0 !important;
+}
+
+.registration_part .box {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 69px;
+
+
+
+}
+
+.registration_part h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 35;
+    font-weight: 700;
+    color: #11175D;
+    margin: 0;
+    margin-top: 225px;
+
+
+}
+
+.registration_part p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 21;
+    font-weight: 400;
+    color: #11175D;
+    margin: 0;
+
+}
+
+.registration_part .MuiFormHelperText-root {
+    color: red;
+    font-size: 14px;
+
+}
+
+.registration_part button {
+    margin-top: 40px;
+}
+
+.registration_part .msg {
+    margin-top: 35.55px;
+    margin-left: 40.1px;
+    font-size: 13px;
+
+
+}
+
+/* LOGIN PART */
+
+.login_part .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border: 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 0;
+
+
+
+}
+
+.registration_part .login_option {
+    display: flex;
+
+}
+
+.registration_part .option {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* padding-left: 40px; */
+    padding-left: 92px;
+    padding-right: 40px;
+    margin-right: 20px;
+    border: 1px solid #03014C;
+    border-radius: 9px;
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    /* width: 100px;
+    height: 50px;
+    background: red;
+    margin-top: 5px;
+    margin-left: 5px; */
+
+}
+
+.registration_part .option img {
+    position: absolute;
+    top: 18px;
+    left: 54px;
+
+}
+
+.registration_part .msg a {
+    display: inline-block;
+    color: #EA6C00;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+
+
+}
+
+.registration_part .eye {
+    position: relative;
+    width: 355px;
+}
+
+
+.registration_part .eye_icon {
+    position: absolute;
+    bottom: 15px;
+    right: 0;
+}
